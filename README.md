@@ -1,1 +1,1 @@
-- 👯 I'am currently studying css, html, java, javascript, angular.
+- 👯 I'am currently studying css, html, java, javascript, angular, Git, github,  http.
