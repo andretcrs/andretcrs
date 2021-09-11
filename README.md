@@ -1,5 +1,5 @@
 
-👨‍💻 Atualmente estudando css, html, java, javascript, git, github, http, react, spring boot.
+👨‍💻 Atualmente estudando css, html, java, javascript.
 
 ▶️ Estudando com os cursos da Rocketseat.
 
