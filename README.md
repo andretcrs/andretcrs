@@ -1,5 +1,5 @@
 
-👨‍💻 Atualmente estudando css, html, java, javascript.
+👨‍💻 Atualmente estudando css, html, javascript.
 
 ▶️ Estudando com os cursos da Rocketseat.
 
