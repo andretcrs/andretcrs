@@ -1,5 +1,5 @@
 
-👨‍💻 Atualmente estudando javascript e cypress.
+👨‍💻 Atualmente estudando Javascript e Cypress.
 
 ▶️ Estudando com os cursos da Rocketseat e QANinja..
 
